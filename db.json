@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "pname": "paste",
+      "pqty": "2",
+      "pprice": "50",
+      "id": 1
+    },
+    {
+      "pname": "pen",
+      "pqty": "5",
+      "pprice": "20",
+      "id": 2
+    },
+    {
+      "pname": "pencil",
+      "pqty": "12",
+      "pprice": "60",
+      "id": 3
+    },
+    {
+      "pname": "book",
+      "pqty": "15",
+      "pprice": "500",
+      "id": 4
+    },
+    {
+      "pname": "bottele",
+      "pqty": "5",
+      "pprice": "60",
+      "id": 5
+    },
+    {
+      "pname": "laptop",
+      "pqty": "8",
+      "pprice": "1000",
+      "id": 6
+    },
+    {
+      "pname": "scale",
+      "pqty": "5",
+      "pprice": "80",
+      "id": 7
+    },
+    {
+      "pname": "pen",
+      "pqty": "2",
+      "pprice": "50",
+      "id": 8
+    },
+    {
+      "pname": "xyz",
+      "pqty": "2",
+      "pprice": "4",
+      "id": 9
+    },
+    {
+      "pname": "pen",
+      "pqty": "2",
+      "pprice": "40",
+      "id": 10
+    }
+  ]
+}
